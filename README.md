@@ -1,78 +1,40 @@
-👋 ¡Hola! Soy Esduardo Palomeque (@eduartrob)
+# Know me   ︿︿ . .웃 . .︿︿ 
 
-<p align="left">
-Un apasionado Ingeniero de Software y Desarrollador Full-Stack con un fuerte interés en el desarrollo móvil y la inteligencia artificial. Siempre estoy explorando nuevas tecnologías para crear soluciones eficientes, seguras e intuitivas.
-</p>
+👋 A passionate Software Engineer and Full-Stack Developer with a strong interest in mobile development and artificial intelligence. I'm always exploring new technologies to create efficient, secure, and intuitive solutions.
 
-🌱 Actualmente aprendiendo: Desarrollo nativo con Kotlin y Jetpack Compose, y explorando patrones de arquitectura de software.
+- 🌱 **Currently learning:** Native development with Kotlin and Jetpack Compose, and exploring software architecture patterns.
+- 💡 **Interested in:** Mobile application development, cybersecurity, IoT, and Machine Learning.
 
-💡 Interesado en: Desarrollo de aplicaciones móviles, seguridad informática, IoT y Machine Learning.
+📫 How to reach me: eduartrob@gmail.com
 
-📫 Cómo contactarme: eduartrob@gmail.com
+## My Portfolio
 
-portfolio Mi portafolio: eduartrob.xyz
-
-🌐 Conéctate conmigo
-
-<p align="left">
-<a href="https://www.linkedin.com/in/eduartrob" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3F%26style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Profile" />
-</a>
-<a href="https://github.com/eduartrob" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Profile" />
-</a>
-</p>
-
-💻 Mi Tech Stack
-
-Lenguajes de Programación
-
-<p align="left">
-<a href="#"><img alt="JavaScript" src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack"></a>
-<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="#"><img alt="Python" src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-<a href="#"><img alt="Kotlin" src="https://www.google.com/search?q=https://img.shields.io/badge/Kotlin-7F52FF%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="Dart" src="https://www.google.com/search?q=https://img.shields.io/badge/Dart-0175C2%3Fstyle%3Dfor-the-badge%26logo%3Ddart%26logoColor%3Dwhite"></a>
-</p>
-
-Frameworks & Plataformas
-
-<p align="left">
-<a href="#"><img alt="React" src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack"></a>
-<a href="#"><img alt="Node.js" src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
-<a href="#"><img alt="Jetpack Compose" src="https://www.google.com/search?q=https://img.shields.io/badge/Jetpack%2520Compose-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Djetpackcompose%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="ESP32" src="https://www.google.com/search?q=https://img.shields.io/badge/ESP32-E73024%3Fstyle%3Dfor-the-badge%26logo%3Despressif%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="Raspberry Pi" src="https://www.google.com/search?q=https://img.shields.io/badge/Raspberry%2520Pi-A22846%3Fstyle%3Dfor-the-badge%26logo%3Draspberrypi%26logoColor%3Dwhite"></a>
-</p>
-
-Bases de Datos
-
-<p align="left">
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="MongoDB" src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="SQL" src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-025E8C%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite"></a>
-</p>
-
-Herramientas & DevOps
-
-<p align="left">
-<a href="#"><img alt="Git" src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="Docker" src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="AWS" src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazonaws%26logoColor%3Dwhite"></a>
-<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-<a href="#"><img alt="Jira" src="https://www.google.com/search?q=https://img.shields.io/badge/Jira-0052CC%3Fstyle%3Dfor-the-badge%26logo%3Djira%26logoColor%3Dwhite"></a>
-</p>
-
-📊 Mis Estadísticas en GitHub
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Deduartrob%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A8E8?style=flat-square&logo=website&logoColor=white)](https://eduartrob.xyz)
 
 
+## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduartrob/)
 
+## 💻 My Tech Stack
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Deduartrob%26layout%3Dcompact%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Top Languages" />
-</p>
+**Programming Languages**
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)  
+
+**Frameworks & Platforms**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E73024?style=flat-square&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**📊 My GitHub Stats**
+
+![](https://github-readme-stats.vercel.app/api?username=eduartrob&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduartrob&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)
