@@ -9,7 +9,7 @@
 
 ## My Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00A8E8?style=flat-square&logo=website&logoColor=white)]([https://eduartrob.xyz](https://eduartrob.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A8E8?style=flat-square&logo=website&logoColor=white)]([https://eduartrob.github.io/])
 
 
 ## 🌐 Connect With Me
